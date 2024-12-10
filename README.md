@@ -1,8 +1,3 @@
-# SimpleDOM Framework
-
-The `SimpleDOM` framework is a lightweight JavaScript library designed for creating simple web applications with virtual DOM handling, state management, and event-based interaction. This guide will walk you through how to use `SimpleDOM`, explaining key functions, state management capabilities, and usage examples.
-
----
 
 ## Features
 
@@ -185,4 +180,3 @@ app.addTodo = function () {
 
 ---
 
-That's it! You are ready to build simple and efficient web applications using the `SimpleDOM` framework. Enjoy coding! 🎉
